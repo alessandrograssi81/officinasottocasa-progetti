@@ -9,6 +9,7 @@ Sketch Arduino e disegni FreeCAD dei progetti di **[officinasottocasa.it](https:
 | Progetto | Cosa c'è | Articolo |
 |---|---|---|
 | [Monitor dei blackout con SIM800L](elettronica/monitor-blackout-sim800l/) | Sketch completo (v2): Arduino Nano, SIM800L, PC817, RTC DS3231, display OLED. Manda un SMS quando manca la corrente e quando torna, con la durata | [Allarme blackout fai da te: SMS con Arduino e SIM800L](https://www.officinasottocasa.it/come-monitorare-blackout-della-rete-elettrica-con-arduino-e-un-sim800l/) |
+| [Allarme batteria scarica con SIM800L](elettronica/allarme-batteria-scarica-sim800l/) | Sketch: Arduino Nano, SIM800L, display OLED. Manda un SMS quando la batteria da 12 V scende sotto la soglia | [Allarme batteria scarica via SMS con Arduino e SIM800L](https://www.officinasottocasa.it/allarme-gsm-batteria-scarica-mancanza-corrente/) |
 | [Prova del SIM800L con i comandi AT](elettronica/sim800l-prova-comandi-at/) | Sketch per parlare con il modulo dal monitor seriale | [SIM800L: guida al modulo GSM con Arduino ed ESP32](https://www.officinasottocasa.it/gsm-sim800l/) |
 
 ## Legno
